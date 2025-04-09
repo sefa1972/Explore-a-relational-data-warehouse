@@ -1,8 +1,8 @@
-Lab 8 - Explore a Relational Data Warehouse with Azure Synapse Analytics
+###Lab 8 - Explore a Relational Data Warehouse with Azure Synapse Analytics
 
 This lab demonstrates how to explore and interact with a relational data warehouse using Azure Synapse Analytics and a dedicated SQL pool. The focus is on querying warehouse tables, understanding data structure, and using SQL analytical functions.
 
-🚀 Objective
+###🚀 Objective
 Provision a Synapse Analytics workspace
 
 Create and explore a dedicated SQL pool
